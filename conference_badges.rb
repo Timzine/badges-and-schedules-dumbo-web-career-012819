@@ -16,3 +16,6 @@ def batch_badge_creator(people_array)
     end
     new_array
 end  
+
+def 
+
