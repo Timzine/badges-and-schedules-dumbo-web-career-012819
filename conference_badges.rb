@@ -29,11 +29,11 @@ end
 
 def printer(array)
   
-  batch_badge_creator(people_array).each do |people|
+  batch_badge_creator(array).each do |people|
     puts people 
   
    end   
-  assign_rooms(speaker_array).each do |room|
+  assign_rooms(array).each do |room|
     puts room
   end
   
