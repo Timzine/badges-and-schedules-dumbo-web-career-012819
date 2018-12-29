@@ -17,5 +17,8 @@ def batch_badge_creator(people_array)
     new_array
 end  
 
-def 
+def assign_rooms(speaker_array)
+  new_array = []
+  speaker_array.each do |
+end  
 
