@@ -6,11 +6,11 @@ def badge_maker(name)
 end 
 
 def batch_badge_creator(people_array)
-    people_array.map do |person|
-      "Hello, my name is #{person}."
-    end
+    #people_array.map do |person|
+    #  "Hello, my name is #{person}."
+    #end
     
-    people_array.map do |person|
+    people_array.each do |person|
       "Hello, my name is #{person}."
     end
      
