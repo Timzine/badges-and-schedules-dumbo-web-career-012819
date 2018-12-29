@@ -19,6 +19,7 @@ end
 
 def assign_rooms(speaker_array)
   new_array = []
-  speaker_array.each do |
+  speaker_array.each do |person|
+    new_array.push()
 end  
 
