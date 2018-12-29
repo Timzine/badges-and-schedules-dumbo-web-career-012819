@@ -6,6 +6,6 @@ def badge_maker(name)
 end 
 
 def batch_badge_creator(array)
-     new_array = array.push("Hello, my name is #{name}.")
+     new_array = array.push("Hello, my name is.")
      return new_array
 end  
