@@ -30,8 +30,9 @@ end
 def printer(array)
   
   assign_rooms.each do |room|
-    puts ""
-  
+    puts room
+  end
+  batch_badge_creator
   
   
 end
