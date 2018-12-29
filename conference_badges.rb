@@ -6,6 +6,7 @@ def badge_maker(name)
 end 
 
 def batch_badge_creator(people_array)
+    
      new_array = array.push("Hello, my name is.")
      return new_array
 end  
