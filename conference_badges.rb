@@ -10,6 +10,8 @@ def batch_badge_creator(people_array)
       "Hello, my name is #{person}."
     end
     
-    
+    people_array.map do |person|
+      "Hello, my name is #{person}."
+    end
      
 end  
